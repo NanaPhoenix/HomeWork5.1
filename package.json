@@ -1,0 +1,19 @@
+{
+  "name": "Homework5.1",
+  "version": "1.0.0",
+  "description": "Домашнее задание к лекции 5.1 «Тестируем сервер, используя Mocha»",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+   "devDependencies": {
+    "mocha": "^3.2.0",
+    "chai": "^4.0.0",
+    "sinon": "^2.3.2",
+    "sinon-chai": "^2.10.0",
+    "supertest": "^3.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
